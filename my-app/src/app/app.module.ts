@@ -19,3 +19,4 @@ export class AppModule {
   thrid: String;
 }
 
+const test1 = new AppModule();
