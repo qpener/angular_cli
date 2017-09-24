@@ -14,6 +14,8 @@ import { AppComponent } from './app.component';
   bootstrap: [AppComponent]
 })
 export class AppModule {
-
- }
+  // first: String;
+  second: String;
+  thrid: String;
+}
 
